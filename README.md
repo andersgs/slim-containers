@@ -21,8 +21,8 @@ For this dummy image, I chose to install `python`, `numpy`, and `samtools`. Chec
 This assumes you have Docker installed on your system, and you are able to run it.
 
 ```bash
-git clone ...
-cd ...
+git clone git@github.com:andersgs/slim-containers.git
+cd slim-containers
 make test
 ```
 
