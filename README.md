@@ -1,4 +1,4 @@
-# Slimming down your containers
+# Slimming down your container images
 
 ## Background
 
